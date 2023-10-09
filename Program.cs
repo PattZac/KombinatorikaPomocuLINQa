@@ -26,7 +26,7 @@ namespace KombinatorikaPomocuLINQa
                         from eight in Enumerable.Range(1, 9)
                         where eight != seven && eight != six && eight != five && eight != four && eight != three && eight != two && eight != one
                         from nine in Enumerable.Range(1, 9)
-                        where seven != eight && nine != seven && nine != six && nine != five && nine != four && nine != three && nine != two && nine != one &&
+                        where nine != eight && nine != seven && nine != six && nine != five && nine != four && nine != three && nine != two && nine != one &&
                         (one * 10 + two) % 2 == 0 &&
                         (one * 100 + two * 10 + three) % 3 == 0 &&
                         (one * 1000 + two * 100 + three * 10 + four) % 4 == 0 &&
