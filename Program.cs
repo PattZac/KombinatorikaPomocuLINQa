@@ -14,9 +14,9 @@ namespace KombinatorikaPomocuLINQa
                         from two in Enumerable.Range(1, 9)
                         where two != one
                         from three in Enumerable.Range(1, 9)
-                        where three != two && two != one
+                        where three != two && three != one
                         from four in Enumerable.Range(1, 9)
-                        where four != three && four != two && two != one
+                        where four != three && four != two && four != one
                         from five in Enumerable.Range(1, 9)
                         where five != four && five != three && five != two && five != one
                         from six in Enumerable.Range(1, 9)
