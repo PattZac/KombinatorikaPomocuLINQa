@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\PatZacNIOP\KombinatorikaPomocuLINQa\bin\Debug\KombinatorikaPomocuLINQa.exe.config
+C:\Users\ucenik\Documents\PatZacNIOP\KombinatorikaPomocuLINQa\bin\Debug\KombinatorikaPomocuLINQa.exe
+C:\Users\ucenik\Documents\PatZacNIOP\KombinatorikaPomocuLINQa\bin\Debug\KombinatorikaPomocuLINQa.pdb
+C:\Users\ucenik\Documents\PatZacNIOP\KombinatorikaPomocuLINQa\obj\Debug\KombinatorikaPomocuLINQa.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\PatZacNIOP\KombinatorikaPomocuLINQa\obj\Debug\KombinatorikaPomocuLINQa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\PatZacNIOP\KombinatorikaPomocuLINQa\obj\Debug\KombinatorikaPomocuLINQa.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\PatZacNIOP\KombinatorikaPomocuLINQa\obj\Debug\KombinatorikaPomocuLINQa.exe
+C:\Users\ucenik\Documents\PatZacNIOP\KombinatorikaPomocuLINQa\obj\Debug\KombinatorikaPomocuLINQa.pdb
